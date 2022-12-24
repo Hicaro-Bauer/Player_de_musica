@@ -2,7 +2,7 @@
 Prática realizada no SENAI. Com o objetivo de criar um Player de Música utilizando metodologias ágeis Scrum e Kanban. Cuja, o tempo para realizar o projeto foi de apenas 
 um dia.
 
-Link para acesso: https://hicaro-bauer.github.io/Player_de_musica/
+Link para acesso: <a target="_blank"> https://hicaro-bauer.github.io/Player_de_musica/ </a>
 
 <h2> Nessa primeira imagem, está o nosso Menu. </h2>
 É possível selecionar a música clicando no album abaixo ou digitando o nome dela (Exatamente da forma que está escrito no menu Principal).
