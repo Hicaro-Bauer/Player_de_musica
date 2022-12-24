@@ -3,6 +3,7 @@ Prática realizada no SENAI. Com o objetivo de criar um Player de Música utiliz
 um dia.
 
 <h2> Nessa primeira imagem, está o nosso Menu. </h2>
+É possível selecionar a música clicando no album abaixo ou digitando o nome dela (Exatamente da forma que está escrito no menu Principal).
 <img src="https://user-images.githubusercontent.com/105173431/209450672-93c36a21-7c2f-4053-bec3-b8b689d0b1f9.png" />
 
 <h2> O player de música </h2>
