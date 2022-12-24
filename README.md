@@ -6,4 +6,5 @@ um dia.
 <img src="https://user-images.githubusercontent.com/105173431/209450672-93c36a21-7c2f-4053-bec3-b8b689d0b1f9.png" />
 
 <h2> O player de música </h2>
+O botão para dar "Play" na música é funcional, assim como o botão "Lyrics", para exibir a letra. 
 <img src="https://user-images.githubusercontent.com/105173431/209450709-9d74c243-02a1-4492-afca-0acba922ef44.png" />
