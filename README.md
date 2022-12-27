@@ -4,6 +4,7 @@ um dia.
 
 Link para acesso: https://hicaro-bauer.github.io/Player_de_musica/
 
+<div align="center">
 <h2> Nessa primeira imagem, está o nosso Menu. </h2>
 É possível selecionar a música clicando no album abaixo ou digitando o nome dela (Exatamente da forma que está escrito no menu Principal).
 <br/> <br/>
@@ -13,3 +14,4 @@ Link para acesso: https://hicaro-bauer.github.io/Player_de_musica/
 O botão para dar "Play" na música é funcional, assim como o botão "Lyrics", para exibir a letra. 
 <br/> <br/>
 <img src="https://user-images.githubusercontent.com/105173431/209450709-9d74c243-02a1-4492-afca-0acba922ef44.png" />
+</div>
